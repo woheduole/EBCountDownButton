@@ -4,9 +4,8 @@ Countdown button for iOS
 
 # 效果图
 
-![](https://upload-images.jianshu.io/upload_images/2107229-addf851d643d8cd7.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/360)
+![](https://upload-images.jianshu.io/upload_images/2107229-e2a9429fe45983eb.gif?imageMogr2/auto-orient/strip)
 
-> 效果图上由于转成gif图之后帧率切换很快啊，实际上是一秒一秒的计时的。
 
 
 
