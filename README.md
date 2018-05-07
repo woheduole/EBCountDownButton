@@ -9,7 +9,7 @@ Countdown button for iOS
 
 
 
-# 调用方式
+# 调用示例
 
 ```
     EBCountDownButton *countDownButton = [[EBCountDownButton alloc] initWithFrame:CGRectMake(100, 100, 140, 40)];
